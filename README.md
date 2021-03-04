@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=350&section=header&text=HyunbeanOhh&fontSize=90)
+
 <h3 align = "center" >💻 My Tech 💻</h3> 
 <p align = "center"> 👉🏻 The technology I use recently 👈🏻 </p> 
 
@@ -9,5 +10,10 @@
  <h3 align = "center"> 🙌🏻 Me 🙌🏻 <h3>
   
 <p align = "center">
-<a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/><img src="https://img.shields.io/badge/Mail-green?style=flat-square&logo=Mail.Ru&logoColor=white"/>
+<a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Micro.blog&logoColor=white&link=내링크"/><img src="https://img.shields.io/badge/Mail-green?style=flat-square&logo=Mail.Ru&logoColor=white"/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbeanohh%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ 
+![hyunbeanOhh's github stats](https://github-readme-stats.vercel.app/api?username=hyunbeanohh&show_icons=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ohb4199)](https://solved.ac/ohb4199)
 </p>
+
+
