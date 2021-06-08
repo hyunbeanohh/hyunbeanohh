@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
 
 
 <h3 align = "center" >💻 My Tech 💻</h3> 
