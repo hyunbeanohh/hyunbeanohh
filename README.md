@@ -1,15 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
 
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=350&section=header&text=hyunbeanOhh%&fontSize=90)
 
 <h3 align = "center" >💻 My Tech 💻</h3> 
 <p align = "center"> 👉🏻 The technology I use recently 👈🏻 </p> 
 
-<p align = "center">
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-40AEF0?style=flat-square&logo=Redux&logoColor=white"/><br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00B388?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white"/>
+<div align = "center"> Front Tech
+ <div>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+ </div>
+</div>
  
-</p>
+<div align = "center"> Back End Tech
+ <div> 
+  <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00B388?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-40AEF0?style=flat-square&logo=Redux&logoColor=white"/><br/>
+ </div>
+</div>
+
+<div align = "center"> Etc
+ <div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant-Design&logoColor=white"/>
+ </div>
+</div> 
 
  <h3 align = "center"> 🙌🏻 Me 🙌🏻 <h3>
   
