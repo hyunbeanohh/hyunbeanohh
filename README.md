@@ -29,8 +29,6 @@
   
 <p align = "center">
 <a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/Blog-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbeanohh%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
- 
-![hyunbeanOhh's github stats](https://github-readme-stats.vercel.app/api?username=hyunbeanohh&show_icons=true&theme=radical)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohb4199)](https://solved.ac/ohb4199)
 </p>
 
 
