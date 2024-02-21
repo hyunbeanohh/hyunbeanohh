@@ -25,7 +25,7 @@
  </div>
 </div> 
 
- <h3 align = "center"> 🙌🏻 Me 🙌🏻 <h3>
+ <h3 align = "center"> 🙌🏻 TIL BLOG 🙌🏻 <h3>
   
 <p align = "center">
 <a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/Blog-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbeanohh%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
