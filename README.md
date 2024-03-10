@@ -35,6 +35,6 @@
 <a href="https://chairking-95.tistory.com/"><img src="https://img.shields.io/badge/Blog-9E9E9E?style=flat-square&logo=Mail.Ru&logoColor=white"/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunbeanohh%2Fhit-counter&count_bg=%000000&title_bg=%343664&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<div align = "center>
+<div align = "center">
  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbeanohh&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
