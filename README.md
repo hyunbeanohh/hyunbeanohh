@@ -7,7 +7,7 @@
 <h3 align = "center" > Tech </h3> 
 <p align = "center">  The technology I use recently </p> 
 
-<div align = "center"> Front Stack
+<div align = "center"> Browser
  <div>
   <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
  </div>
@@ -15,7 +15,7 @@
 
  <br/>
  
-<div align = "center"> Back End Stack / Web Server
+<div align = "center"> Server
  <div> 
   <img src="https://img.shields.io/badge/Node.js-5455FE?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=jsp&logoColor=white">
  </div>
