@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/hyunbeanohh/hyunbeanohh/blame/main/hyunbeanohh.svg">
+  <a href="https://github.com/hyunbeanohh/hyunbeanohh/blob/main/hyunbeanohh.svg">
     <img src="hyunbeanohh.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
