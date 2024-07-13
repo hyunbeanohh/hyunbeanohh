@@ -4,17 +4,28 @@
   </a>
 </div>
 
-<div align = "center"> I use recently
+<div align = "center"> <p><strong>🌱 꾸준히 공부하려고 하는 </strong></p>
  <div>
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+ </div>
+</div>
+
+<div align = "center"> <p><strong>🔭 현재 주로 사용하는 </strong></p>
+ <div>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ </div>
+</div>
+
+<div align = "center"> <p><strong>📫 연락 </strong></p>
+ <div>
+ <a href="www.linkedin.com/in/dev-bean" target="_blank"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://chairking-95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+ <a href="https://devbean.oopy.io/" target="_blank"><img src = "https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white"/></a>
  </div>
 </div>
 
 <!--
-**nikolalsvk/nikolalsvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
