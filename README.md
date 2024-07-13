@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<div align = "center"> Front
+ <div>
+  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Javascript-important?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/HTML5-yellow?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/CSS3-lightgray?style=flat-square&logo=CSS3&logoColor=white"/></br><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+ </div>
+</div>
+
 <!--
 **nikolalsvk/nikolalsvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
