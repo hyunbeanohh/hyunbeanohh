@@ -4,20 +4,20 @@
   </a>
 </div>
 
-<div align = "center"> <p><strong>🌱 꾸준히 공부하려고 하는 </strong></p>
+<div align = "center"> <p><strong>🌱 Mainly interested and learning </strong></p>
  <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
  </div>
 </div>
 
-<div align = "center"> <p><strong>🔭 현재 주로 사용하는 </strong></p>
+<div align = "center"> <p><strong>🔭 Mainly used in business </strong></p>
  <div>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  </div>
 </div>
 
-<div align = "center"> <p><strong>📫 연락 </strong></p>
+<div align = "center"> <p><strong>📫 In touch </strong></p>
  <div>
  <a href="www.linkedin.com/in/dev-bean" target="_blank"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://chairking-95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
