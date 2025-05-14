@@ -21,7 +21,7 @@
  <div>
  <a href="www.linkedin.com/in/dev-bean" target="_blank"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://chairking-95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
- <a href="https://devbean.oopy.io/" target="_blank"><img src = "https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white"/></a>
+ <a href="https://bit.ly/4jlY0Ot" target="_blank"><img src = "https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white"/></a>
  </div>
 </div>
 
