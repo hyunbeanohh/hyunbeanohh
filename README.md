@@ -28,4 +28,5 @@
 ## ✍ 기록 (Latest Posts)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
