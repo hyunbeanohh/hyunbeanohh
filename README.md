@@ -1,32 +1,17 @@
-<div style="width: 100%;">
-  <a href="https://devbean.oopy.io/">
-    <img src="hyunbeanohh.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+**B2B 기업에서 문서 중심 웹 시스템(에디터·업로더·뷰어)의 구조를 설계하고 있어요.**  
+**AI 시대에서 개발자가 가져야 하는 역할에 대해서 고민하고 있습니다.**
 
-<div align = "center"> <p><strong>Mainly interested and learning </strong></p>
- <div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
- </div>
-</div>
+[![Resume](https://img.shields.io/badge/Resume-1e394e?style=flat&logo=readthedocs&logoColor=white)](https://exultant-fuel-232.notion.site/8a98b3b88c4c46b69305ea48e9ba9c26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bean)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://chairking-95.tistory.com/)
 
-<div align = "center"> <p><strong>Mainly used in business </strong></p>
- <div>
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- </div>
-</div>
+**오픈소스**
 
-<div align = "center"> <p><strong>In touch </strong></p>
- <div>
- <a href="www.linkedin.com/in/dev-bean" target="_blank"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://chairking-95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
- <a href="https://bit.ly/4jlY0Ot" target="_blank"><img src = "https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white"/></a>
- </div>
-</div>
+- [![crossuploader-react](https://img.shields.io/badge/crossuploader--react-2E7D32?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/crossuploader-react)
+![npm](https://img.shields.io/npm/v/crossuploader-react?style=flat&color=2E7D32)
+![npm downloads](https://img.shields.io/npm/dm/crossuploader-react?style=flat&color=2E7D32) React wrapper for Uploader & Downloader
 
-## ✍ 기록 (Latest Posts)
-
+**기록**
 <!-- BLOG-POST-LIST:START -->
 - [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
