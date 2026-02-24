@@ -1,0 +1,15 @@
+{
+  "quokka_level": 1,
+  "eaten_leaves": {
+    "JS": 1,
+    "TS": 0,
+    "React": 0,
+    "Next.js": 0,
+    "AI": 0
+  },
+  "current_target": "Next.js",
+  "position": {
+    "x": 394,
+    "y": 266
+  }
+}
