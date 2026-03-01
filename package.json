@@ -1,0 +1,26 @@
+{
+  "name": "hyunbeanohh",
+  "version": "1.0.0",
+  "description": "**B2B 기업에서 문서 중심 웹 시스템(에디터·업로더·뷰어)의 구조를 설계하고 있어요.**   **AI 시대에서 개발자가 가져야 하는 역할에 대해서 고민하고 있습니다.**",
+  "homepage": "https://github.com/hyunbeanohh/hyunbeanohh#readme",
+  "bugs": {
+    "url": "https://github.com/hyunbeanohh/hyunbeanohh/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunbeanohh/hyunbeanohh.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "render:gif": "node scripts/render-quokka-gif.mjs"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.70",
+    "gif-encoder-2": "^1.0.5",
+    "minimist": "^1.2.8",
+    "sharp": "^0.33.5"
+  }
+}
