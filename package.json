@@ -18,7 +18,7 @@
     "render:gif": "node scripts/render-quokka-gif.mjs"
   },
   "dependencies": {
-    "@napi-rs/canvas": "^0.1.70",
+    "@napi-rs/canvas": "^0.1.95",
     "gif-encoder-2": "^1.0.5",
     "minimist": "^1.2.8",
     "sharp": "^0.33.5"
