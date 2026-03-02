@@ -13,5 +13,6 @@
 
 **기록**
 <!-- BLOG-POST-LIST:START -->
+- [[임시] 글 보호 기능 테스트](https://oddn.ai.kr/draft-test) <sub>2026. 03. 02.</sub>
 - [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
