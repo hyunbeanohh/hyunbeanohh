@@ -13,6 +13,7 @@
 
 **기록**
 <!-- BLOG-POST-LIST:START -->
-- [[임시] 글 보호 기능 테스트](https://oddn.ai.kr/draft-test) <sub>2026. 03. 02.</sub>
+- [[프로토타입] 우측 고정 목차 UI 테스트 글](https://oddn.ai.kr/2) <sub>2026. 03. 06.</sub>
+- [TDD(테스트 주도 개발) 알아보기](https://oddn.ai.kr/1) <sub>2026. 03. 03.</sub>
 - [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
