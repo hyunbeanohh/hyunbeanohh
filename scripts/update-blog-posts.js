@@ -110,9 +110,14 @@ async function getLatestPosts() {
         continue;
       }
 
+      if (String(fm.draft).toLowerCase() === 'true') {
+        console.log(`  [skip] ${folder.name}: Draft post`);
+        continue;
+      }
+
       // slug는 폴더명 기준 (gatsby-node.js의 페이지 생성 방식과 동일하게 맞춤)
       const slug = folder.name;
-      const postUrl = `${BLOG_BASE_URL}/${slug}`;
+      const postUrl = `${BLOG_BASE_URL}/blog/${slug}`;
 
       posts.push({
         title: fm.title,
@@ -148,7 +153,7 @@ function updateReadme(posts) {
     throw new Error(`README.md not found at ${README_PATH}`);
   }
 
-  let readme = fs.readFileSync(README_PATH, 'utf-8');
+  const readme = fs.readFileSync(README_PATH, 'utf-8');
 
   const startMarker = '<!-- BLOG-POST-LIST:START -->';
   const endMarker = '<!-- BLOG-POST-LIST:END -->';
@@ -161,7 +166,8 @@ function updateReadme(posts) {
     return `- [${post.title}](${post.url}) <sub>${formatDate(post.date)}</sub>`;
   });
 
-  const newSection = `${startMarker}\n${postLines.join('\n')}\n${endMarker}`;
+  const postBody = postLines.length > 0 ? postLines.join('\n') : '- (게시글이 없습니다)';
+  const newSection = `${startMarker}\n${postBody}\n${endMarker}`;
 
   const updated = readme.replace(
     new RegExp(`${startMarker}[\\s\\S]*?${endMarker}`),
@@ -179,12 +185,6 @@ async function main() {
   }
 
   const posts = await getLatestPosts();
-
-  if (posts.length === 0) {
-    console.log('No posts found. README not updated.');
-    return;
-  }
-
   updateReadme(posts);
 }
 
