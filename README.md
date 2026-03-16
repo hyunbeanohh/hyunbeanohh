@@ -13,6 +13,6 @@
 
 **기록**
 <!-- BLOG-POST-LIST:START -->
-- [[프로토타입] 우측 고정 목차 UI 테스트 글](https://oddn.ai.kr/blog/2) <sub>2026. 03. 06.</sub>
+- [oh-my-opencode란?](https://oddn.ai.kr/blog/1) <sub>2026. 03. 16.</sub>
 - [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/blog/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
