@@ -3,7 +3,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-1e394e?style=flat&logo=readthedocs&logoColor=white)](https://hyunbeanohh.vercel.app/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bean)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://chairking-95.tistory.com/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://oddn.ai.kr)
 
 **오픈소스**
 
