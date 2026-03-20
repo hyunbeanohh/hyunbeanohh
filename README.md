@@ -1,7 +1,7 @@
 **B2B 기업에서 문서 중심 웹 시스템(에디터·업로더·뷰어)의 구조를 설계하고 있어요.**  
 **AI 시대에서 개발자가 가져야 하는 역할에 대해서 고민하고 있습니다.**
 
-[![Resume](https://img.shields.io/badge/Resume-1e394e?style=flat&logo=readthedocs&logoColor=white)](https://github.com/hyunbeanohh/hyunbeanohh/blob/main/assets/resume/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-1e394e?style=flat&logo=readthedocs&logoColor=white)](https://hyunbeanohh.vercel.app/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bean)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://chairking-95.tistory.com/)
 
