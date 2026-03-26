@@ -13,6 +13,7 @@
 
 **기록**
 <!-- BLOG-POST-LIST:START -->
+- [Vite 환경에서 임베디드 배포를 위한 Vite 번들 구조 단순화하기](https://oddn.ai.kr/blog/3) <sub>2026. 03. 26.</sub>
 - [oh-my-openagent(opencode)란?](https://oddn.ai.kr/blog/1) <sub>2026. 03. 16.</sub>
 - [AI 시대에 개발자는 어떻게 살아가야 하는가?](https://oddn.ai.kr/blog/0) <sub>2026. 02. 21.</sub>
 <!-- BLOG-POST-LIST:END -->
