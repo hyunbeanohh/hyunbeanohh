@@ -1,5 +1,5 @@
 /**
- * ODDN-Blog (content/blog/) 에서 최신 포스트 5개를 읽어
+ * oddnblog (content/blog/) 에서 최신 포스트 5개를 읽어
  * 프로필 README.md의 BLOG-POST-LIST 마커 사이에 업데이트하는 스크립트
  */
 
@@ -8,13 +8,24 @@ const fs = require('fs');
 const path = require('path');
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const BLOG_REPO = 'hyunbeanohh/ODDN-Blog';
+const BLOG_REPO = 'hyunbeanohh/oddnblog';
 const BLOG_CONTENT_PATH = 'content/blog';
 const BLOG_BASE_URL = 'https://oddn.ai.kr';
 const README_PATH = path.join(__dirname, '..', 'README.md');
 const MAX_POSTS = 5;
+const MAX_REDIRECTS = 5;
 
-function githubRequest(url) {
+function isRedirectStatus(statusCode) {
+  return (
+    statusCode === 301 ||
+    statusCode === 302 ||
+    statusCode === 303 ||
+    statusCode === 307 ||
+    statusCode === 308
+  );
+}
+
+function githubRequest(url, redirectsRemaining = MAX_REDIRECTS) {
   return new Promise((resolve, reject) => {
     const options = {
       headers: {
@@ -27,6 +38,21 @@ function githubRequest(url) {
     https
       .get(url, options, (res) => {
         let data = '';
+
+        if (isRedirectStatus(res.statusCode) && res.headers.location) {
+          res.resume();
+
+          if (redirectsRemaining <= 0) {
+            reject(new Error(`GitHub API redirect limit exceeded: ${url}`));
+            return;
+          }
+
+          resolve(
+            githubRequest(new URL(res.headers.location, url).toString(), redirectsRemaining - 1)
+          );
+          return;
+        }
+
         res.on('data', (chunk) => (data += chunk));
         res.on('end', () => {
           if (res.statusCode !== 200) {
