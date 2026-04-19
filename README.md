@@ -13,6 +13,7 @@
 
 **기록**
 <!-- BLOG-POST-LIST:START -->
+- [Netlify에서 Cloudflare로 마이그레이션 하기](https://oddn.ai.kr/blog/4) <sub>2026. 04. 13.</sub>
 - [Vite 환경에서 임베디드 배포를 위한 Vite 번들 구조 단순화하기](https://oddn.ai.kr/blog/3) <sub>2026. 03. 26.</sub>
 - [React에서 렌더링 탐지 및 추적하기](https://oddn.ai.kr/blog/2) <sub>2026. 03. 24.</sub>
 - [oh-my-openagent(opencode)에 대해서 알아보자](https://oddn.ai.kr/blog/1) <sub>2026. 03. 16.</sub>
