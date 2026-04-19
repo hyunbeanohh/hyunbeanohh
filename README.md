@@ -1,17 +1,20 @@
-**B2B 기업에서 문서 중심 웹 시스템(에디터·업로더·뷰어)의 구조를 설계하고 있어요.**  
+**_자기 소개_**
+
+**B2B 기업에서 문서 중심 웹 시스템(에디터·업로더·뷰어)의 구조를 설계하고 있어요.**
+
 **AI 시대에서 개발자가 가져야 하는 역할에 대해서 고민하고 있습니다.**
 
 [![Resume](https://img.shields.io/badge/Resume-1e394e?style=flat&logo=readthedocs&logoColor=white)](https://hyunbeanohh.vercel.app/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bean)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://oddn.ai.kr)
 
-**오픈소스**
+**_오픈소스_**
 
 - [![crossuploader-react](https://img.shields.io/badge/crossuploader--react-2E7D32?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/crossuploader-react)
 ![npm](https://img.shields.io/npm/v/crossuploader-react?style=flat&color=2E7D32)
 ![npm downloads](https://img.shields.io/npm/dm/crossuploader-react?style=flat&color=2E7D32) React wrapper for Uploader & Downloader
 
-**기록**
+**_기록_**
 <!-- BLOG-POST-LIST:START -->
 - [Netlify에서 Cloudflare로 마이그레이션 하기](https://oddn.ai.kr/blog/4) <sub>2026. 04. 13.</sub>
 - [Vite 환경에서 임베디드 배포를 위한 Vite 번들 구조 단순화하기](https://oddn.ai.kr/blog/3) <sub>2026. 03. 26.</sub>
