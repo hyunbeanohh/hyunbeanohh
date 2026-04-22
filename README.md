@@ -13,6 +13,12 @@
 - [![crossuploader-react](https://img.shields.io/badge/crossuploader--react-2E7D32?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/crossuploader-react)
 ![npm](https://img.shields.io/npm/v/crossuploader-react?style=flat&color=2E7D32)
 ![npm downloads](https://img.shields.io/npm/dm/crossuploader-react?style=flat&color=2E7D32) React wrapper for Uploader & Downloader
+- [![crossviewer-react](https://img.shields.io/badge/crossuploader--react-2E7D32?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/crossviewer-react)
+![npm](https://img.shields.io/npm/v/crossuploader-react?style=flat&color=2E7D32)
+![npm downloads](https://img.shields.io/npm/dm/crossviewer-react?style=flat&color=2E7D32) React wrapper for CrossViewer
+- [![crossviewer-vu3](https://img.shields.io/badge/crossuploader--react-2E7D32?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/crossviewer-vue3)
+![npm](https://img.shields.io/npm/v/crossuploader-react?style=flat&color=2E7D32)
+![npm downloads](https://img.shields.io/npm/dm/crossviewer-vue3?style=flat&color=2E7D32) vue3 wrapper for CrossViewer
 
 **_기록_**
 <!-- BLOG-POST-LIST:START -->
